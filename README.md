@@ -7,8 +7,4 @@ https://atcoder.jp/users/kosilov_water
 
 2022/12/24　茶～
 
-git add .
-
-git commit -m "comment"
-
-git push
+2023/05/11以前の解答に関しては、別のリポジトリにまとめています。
