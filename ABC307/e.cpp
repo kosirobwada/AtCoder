@@ -22,7 +22,7 @@ int main() {
     for(int i=2; i<N; i++){
         dp[i][0] = (dp[i-1][1])%mod;
         dp[i][0] %= mod;
-        dp[i][1] = (modpow(M-1,i,mod)-dp[i][0])%mod;
+        dp[i][1] = (modpow(M-1,i,mod)+mod-dp[i][0])%mod;
         dp[i][1] %= mod;
     }
     ll ans = (dp[N-1][1]*(M))%mod;
