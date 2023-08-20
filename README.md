@@ -1,7 +1,7 @@
 # AtCoder
 AtCoderのコンテストへの参加記録です。
 
-![image](https://github.com/kosirobwada/AtCoder/assets/97875031/196ede90-bc62-4fc7-88d2-6448ae7f00c8)
+![image](https://github.com/kosirobwada/AtCoder/assets/97875031/c944fdaf-90fb-4e70-ac03-8a84c01934fa)
 
 AtCoderのアカウント：https://atcoder.jp/users/kosilov_water
 
