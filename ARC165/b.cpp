@@ -13,6 +13,14 @@ int main() {
         if(p[i]>p[i-1])x[i] = x[i-1] + 1;
         else x[i] = 0;
     }
+    for(int i=0; i<N; i++){
+        if(x[i]==K-1){
+            for(int j=0; j<N; j++){
+                std::cout << p[j] << " ";
+            }
+            return 0;
+        }
+    }
     int z = x[N-K];
     //std::cout << z << endl;
     int num = -1;
